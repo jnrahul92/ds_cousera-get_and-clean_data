@@ -1,0 +1,1 @@
+train_x <- read.csv("./UCI HAR Dataset/train/X_train.txt",sep = "\t",header = FALSE)
